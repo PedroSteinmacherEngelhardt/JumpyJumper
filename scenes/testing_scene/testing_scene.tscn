@@ -13,6 +13,7 @@ metadata/_edit_lock_ = true
 layer = 0
 
 [node name="ArcadeMachine" type="Sprite2D" parent="Ui"]
+visible = false
 position = Vector2(573.706, 333.241)
 scale = Vector2(1.0997, 1.0997)
 texture = ExtResource("1_gwkqf")
